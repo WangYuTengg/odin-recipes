@@ -1,0 +1,41 @@
+body {
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 56px;
+    color: black;
+    background-color: whitesmoke;
+    margin:0;
+    padding: 20px;
+}
+
+.centerimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 30%;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.container{
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+ul {
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+}
